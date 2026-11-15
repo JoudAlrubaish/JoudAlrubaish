@@ -13,6 +13,7 @@
 ---
 
 ## 📫 Let’s Connect  
+- 🌐 Portfolio: [joud-alrubaish.vercel.app](https://joud-alrubaish.vercel.app)
 - 📧 Email: Joudalrubaish2@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/joud-alrubaish-08b23221a)
 - Currently I'm opent to work Full-time job in AI/ML Research 
